@@ -1,9 +1,9 @@
-#Instructions for using NetClips GUI
+# Instructions for using NetClips GUI
 
 1. Open the script in command prompt or Atom editor (if available):
 ![Step_1](/readme_files/Step_1.png)
 
-Make sure the working directory points to the directory where NetClips_GUI.py file is.
+  Make sure the working directory points to the directory where NetClips_GUI.py file is.
 
 2. Running the python script:
   •	Type:  python NetClips_GUI.py
