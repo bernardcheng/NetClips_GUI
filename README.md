@@ -1,3 +1,11 @@
+# Prerequisites:
+Download saved models & place files into Models folder
+Link 1: https://drive.google.com/file/d/1vWFZ1AyaOKaxdTtjPm-Ix-Pir03sKnHK/view?usp=sharing
+Link 2: https://drive.google.com/file/d/1giTNBXloAqDX44Lzr5gAnrkOZYDD7Kfi/view?usp=sharing
+Link 3: https://drive.google.com/file/d/1Hk40V7fnrWvpkfWwUKjyfxOk63yQ-JUt/view?usp=sharing
+
+Note: Temp folder is intended to be initially empty
+
 # Instructions for using NetClips GUI
 
 1. Open the script in command prompt or Atom editor (if available):
