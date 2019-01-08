@@ -1,11 +1,11 @@
 # Prerequisites:
 1. Download saved models & place files into a new Models folder called "Models"
 
-  •	[Link 1](https://drive.google.com/file/d/1vWFZ1AyaOKaxdTtjPm-Ix-Pir03sKnHK/view?usp=sharing)
+    •	[Link 1](https://drive.google.com/file/d/1vWFZ1AyaOKaxdTtjPm-Ix-Pir03sKnHK/view?usp=sharing)
   
-  •	[Link 2](https://drive.google.com/file/d/1giTNBXloAqDX44Lzr5gAnrkOZYDD7Kfi/view?usp=sharing)
+    •	[Link 2](https://drive.google.com/file/d/1giTNBXloAqDX44Lzr5gAnrkOZYDD7Kfi/view?usp=sharing)
   
-  •	[Link 3](https://drive.google.com/file/d/1Hk40V7fnrWvpkfWwUKjyfxOk63yQ-JUt/view?usp=sharing)
+    •	[Link 3](https://drive.google.com/file/d/1Hk40V7fnrWvpkfWwUKjyfxOk63yQ-JUt/view?usp=sharing)
 
 2. Create an empty folder called "Temp".
 
