@@ -1,5 +1,5 @@
 # Prerequisites:
-Download saved models & place files into Models folder
+1. Download saved models & place files into a new Models folder called "Models"
 
   •	[Link 1](https://drive.google.com/file/d/1vWFZ1AyaOKaxdTtjPm-Ix-Pir03sKnHK/view?usp=sharing)
   
@@ -7,7 +7,7 @@ Download saved models & place files into Models folder
   
   •	[Link 3](https://drive.google.com/file/d/1Hk40V7fnrWvpkfWwUKjyfxOk63yQ-JUt/view?usp=sharing)
 
-Note: Temp folder is intended to be initially empty
+2. Create an empty folder called "Temp".
 
 # Instructions for using NetClips GUI
 
