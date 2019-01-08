@@ -1,4 +1,11 @@
-# Prerequisites:
+# Software prerequisites:
+• Tkinter
+
+• Tensorflow
+
+• Keras 
+
+# Setting up:
 1. Download saved models & place files into a new Models folder called "Models"
 
     •	[Link 1](https://drive.google.com/file/d/1vWFZ1AyaOKaxdTtjPm-Ix-Pir03sKnHK/view?usp=sharing)
