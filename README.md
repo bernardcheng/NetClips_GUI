@@ -12,7 +12,7 @@
 
 2. Create an empty folder called "Temp".
 
-## Usage Instructions
+## Usage Instructions:
 
 1. Open the script in command prompt or Atom editor (if available):
 
@@ -29,3 +29,10 @@ Make sure the working directory points to the directory where NetClips_GUI.py fi
 3. Using NetClips GUI:
 
 	![Step_3_final](/readme_files/Step_3_final.PNG)
+
+---
+
+## Academic Paper
+
+* [NetClips: A Framework for Video Analytics in Sports Broadcast](https://github.com/bernardcheng/NetClips_GUI/blob/master/TVC_IEEEbigdata-2018.pdf)
+
